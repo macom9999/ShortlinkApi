@@ -3,3 +3,8 @@ obj/
 out/
 .DS_Store
 .vscode/
+bin/
+obj/
+out/
+.DS_Store
+.vscode/
